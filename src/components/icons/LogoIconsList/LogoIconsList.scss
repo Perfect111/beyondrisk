@@ -1,0 +1,33 @@
+.logo-icons-list-wrapper {
+  display: flex;
+  align-items: baseline;
+  flex-flow: column;
+}
+
+.logo-icon-holder {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  line-height: 24px;
+
+  .logo-icon-block {
+    min-width: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo-icon-type {
+    margin-left: 20px;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+
+  .logo-icon-code {
+    cursor: pointer;
+    background-color: lightgray;
+    border-radius: 8px;
+    padding: 0 10px;
+  }
+}

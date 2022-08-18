@@ -1,0 +1,26 @@
+.action-icons-list-wrapper {
+  display: flex;
+  align-items: baseline;
+  flex-flow: column;
+}
+
+.action-icon-holder {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  line-height: 24px;
+
+  .action-icon-type {
+    margin-left: 20px;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+
+  .action-icon-code {
+    cursor: pointer;
+    background-color: lightgray;
+    border-radius: 8px;
+    padding: 0 10px;
+  }
+}

@@ -1,0 +1,321 @@
+/* regster all font faces here */
+
+@font-face {
+  font-family: 'Alliance-Mono';
+  src: url(fonts/alliance-trial/Alliance-Mono.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueBlack';
+  src: url(fonts/alliance-trial/Alliance-NeueBlack.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueBlackItalic';
+  src: url(fonts/alliance-trial/Alliance-NeueBlackItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueBold';
+  src: url(fonts/alliance-trial/Alliance-NeueBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueBoldItalic';
+  src: url(fonts/alliance-trial/Alliance-NeueBoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueExtraBold';
+  src: url(fonts/alliance-trial/Alliance-NeueExtraBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueExtraBoldtalic';
+  src: url(fonts/alliance-trial/Alliance-NeueExtraBoldtalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueLight';
+  src: url(fonts/alliance-trial/Alliance-NeueLight.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueLightItalic';
+  src: url(fonts/alliance-trial/Alliance-NeueLightItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueMedium';
+  src: url(fonts/alliance-trial/Alliance-NeueMedium.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueMediumItalic';
+  src: url(fonts/alliance-trial/Alliance-NeueMediumItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueRegular';
+  src: url(fonts/alliance-trial/Alliance-NeueRegular.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueRegularItalic';
+  src: url(fonts/alliance-trial/Alliance-NeueRegularItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueSemiBold';
+  src: url(fonts/alliance-trial/Alliance-NeueSemiBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-NeueSemiBoldItalic';
+  src: url(fonts/alliance-trial/Alliance-NeueSemiBoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattBlack';
+  src: url(fonts/alliance-trial/Alliance-PlattBlack.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattBold';
+  src: url(fonts/alliance-trial/Alliance-PlattBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattExtraBold';
+  src: url(fonts/alliance-trial/Alliance-PlattExtraBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattLight';
+  src: url(fonts/alliance-trial/Alliance-PlattLight.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattMedium';
+  src: url(fonts/alliance-trial/Alliance-PlattMedium.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattRegular';
+  src: url(fonts/alliance-trial/Alliance-PlattRegular.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-PlattSemiBold';
+  src: url(fonts/alliance-trial/Alliance-PlattSemiBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextBlack';
+  src: url(fonts/alliance-trial/Alliance-TextBlack.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextBlackItalic';
+  src: url(fonts/alliance-trial/Alliance-TextBlackItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextBold';
+  src: url(fonts/alliance-trial/Alliance-TextBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextBoldItalic';
+  src: url(fonts/alliance-trial/Alliance-TextBoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextExtraBold';
+  src: url(fonts/alliance-trial/Alliance-TextExtraBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextExtraBoldItalic';
+  src: url(fonts/alliance-trial/Alliance-TextExtraBoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextLight';
+  src: url(fonts/alliance-trial/Alliance-TextLight.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextLightItalic';
+  src: url(fonts/alliance-trial/Alliance-TextLightItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextMedium';
+  src: url(fonts/alliance-trial/Alliance-TextMedium.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextMediumItalic';
+  src: url(fonts/alliance-trial/Alliance-TextMediumItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextRegular';
+  src: url(fonts/alliance-trial/Alliance-TextRegular.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextRegularItalic';
+  src: url(fonts/alliance-trial/Alliance-TextRegularItalic.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextSemiBold';
+  src: url(fonts/alliance-trial/Alliance-TextSemiBold.otf);
+}
+
+@font-face {
+  font-family: 'Alliance-TextSemiBoldItalic';
+  src: url(fonts/alliance-trial/Alliance-TextSemiBoldItalic.otf);
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-Bold';
+  src: url('fonts/ibm-plex/IBMPlexMono-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-BoldItalic';
+  src: url('fonts/ibm-plex/IBMPlexMono-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-ExtraLight';
+  src: url('fonts/ibm-plex/IBMPlexMono-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-ExtraLightItalic';
+  src: url('fonts/ibm-plex/IBMPlexMono-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-Italic';
+  src: url('fonts/ibm-plex/IBMPlexMono-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-Light';
+  src: url('fonts/ibm-plex/IBMPlexMono-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-LightItalic';
+  src: url('fonts/ibm-plex/IBMPlexMono-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-Medium';
+  src: url('fonts/ibm-plex/IBMPlexMono-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-MediumItalic';
+  src: url('fonts/ibm-plex/IBMPlexMono-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-Regular';
+  src: url('fonts/ibm-plex/IBMPlexMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-SemiBold';
+  src: url('fonts/ibm-plex/IBMPlexMono-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-SemiBoldItalic';
+  src: url('fonts/ibm-plex/IBMPlexMono-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-Thin';
+  src: url('fonts/ibm-plex/IBMPlexMono-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexMono-ThinItalic';
+  src: url('fonts/ibm-plex/IBMPlexMono-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Bold';
+  src: url('fonts/ibm-plex/IBMPlexSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-BoldItalic';
+  src: url('fonts/ibm-plex/IBMPlexSans-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-ExtraLight';
+  src: url('fonts/ibm-plex/IBMPlexSans-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-ExtraLightItalic';
+  src: url('fonts/ibm-plex/IBMPlexSans-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Italic';
+  src: url('fonts/ibm-plex/IBMPlexSans-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Light';
+  src: url('fonts/ibm-plex/IBMPlexSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-LightItalic';
+  src: url('fonts/ibm-plex/IBMPlexSans-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Medium';
+  src: url('fonts/ibm-plex/IBMPlexSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-MediumItalic';
+  src: url('fonts/ibm-plex/IBMPlexSans-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Regular';
+  src: url('fonts/ibm-plex/IBMPlexSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-SemiBold';
+  src: url('fonts/ibm-plex/IBMPlexSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-SemiBoldItalic';
+  src: url('fonts/ibm-plex/IBMPlexSans-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-Thin';
+  src: url('fonts/ibm-plex/IBMPlexSans-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBMPlexSans-ThinItalic';
+  src: url('fonts/ibm-plex/IBMPlexSans-ThinItalic.ttf') format('truetype');
+}

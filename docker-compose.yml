@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  beyondrisk-components:
+    build:
+      context: ./
+      target: develop
+    image: beyondrisk-components
+    init: true
+    command: npm run storybook
+    ports:
+      - 6006:6006
+    volumes:
+      - /usr/src/app/node_modules
+      - ./:/usr/app

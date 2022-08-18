@@ -1,0 +1,164 @@
+@font-face {
+  font-family: 'BeyondRiskIcons';
+  src:
+    url('fonts/BeyondRiskIcons.ttf?ctyth5') format('truetype'),
+    url('fonts/BeyondRiskIcons.woff?ctyth5') format('woff'),
+    url('fonts/BeyondRiskIcons.svg?ctyth5#BeyondRiskIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="br-"], [class*=" br-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'BeyondRiskIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.br-adapters:before {
+  content: "\e900";
+}
+.br-adapters-connected:before {
+  content: "\e901";
+}
+.br-computers:before {
+  content: "\e902";
+}
+.br-desktops:before {
+  content: "\e903";
+}
+.br-laptops:before {
+  content: "\e904";
+}
+.br-others:before {
+  content: "\e905";
+}
+.br-printers:before {
+  content: "\e906";
+}
+.br-smart-devices:before {
+  content: "\e907";
+}
+.br-smartphones:before {
+  content: "\e908";
+}
+.br-tablets:before {
+  content: "\e909";
+}
+.br-encryption:before {
+  content: "\e90a";
+}
+.br-endpoint-distribution:before {
+  content: "\e90b";
+}
+.br-operating-system:before {
+  content: "\e90c";
+}
+.br-os-cloud:before {
+  content: "\e90d";
+}
+.br-os-linux:before {
+  content: "\e90e";
+}
+.br-os-mac:before {
+  content: "\e90f";
+}
+.br-os-routers:before {
+  content: "\e910";
+}
+.br-os-windows:before {
+  content: "\e911";
+}
+.br-compliance-detect:before {
+  content: "\e912";
+}
+.br-compliance-identify:before {
+  content: "\e913";
+}
+.br-compliance-protect:before {
+  content: "\e914";
+}
+.br-compliance-recover:before {
+  content: "\e915";
+}
+.br-compliance-respond:before {
+  content: "\e916";
+}
+.br-financial-impact:before {
+  content: "\e917";
+}
+.br-insurance-coverage:before {
+  content: "\e918";
+}
+.br-arrow-left:before {
+  content: "\e919";
+}
+.br-menu-adapters:before {
+  content: "\e91a";
+}
+.br-menu-adapters-black:before {
+  content: "\e91b";
+}
+.br-menu-assets:before {
+  content: "\e91c";
+}
+.br-black-circlemenu-on:before {
+  content: "\e91d";
+}
+.br-menu-compliance:before {
+  content: "\e91e";
+}
+.br-menu-compliance-on:before {
+  content: "\e91f";
+}
+.br-menu-dashboard:before {
+  content: "\e920";
+}
+.br-menu-finance:before {
+  content: "\e922";
+}
+.br-menu-finance-on:before {
+  content: "\e923";
+}
+.br-menu-rims:before {
+  content: "\e924";
+}
+.br-menu-rims-on:before {
+  content: "\e925";
+}
+.br-menu-settings:before {
+  content: "\e926";
+}
+.br-menu-settings-on:before {
+  content: "\e927";
+}
+.br-arrow-right:before {
+  content: "\e928";
+}
+.br-rim-group:before {
+  content: "\e929";
+}
+.br-risk-score:before {
+  content: "\e92a";
+}
+.br-settings-account:before {
+  content: "\e92b";
+}
+.br-settings-billing:before {
+  content: "\e92c";
+}
+.br-settings-organisation:before {
+  content: "\e92d";
+}
+.br-settings-users:before {
+  content: "\e92e";
+}

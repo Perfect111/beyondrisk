@@ -1,0 +1,12 @@
+# Run all linting first to make sure that files are in correct format (especially do to prettier conflicts).
+npm run lint:js
+npm run lint:ts
+npm run lint:scss
+
+# Run super linter locally.
+docker run\
+ -e RUN_LOCAL=true\
+ -e FILTER_REGEX_INCLUDE='.*src/.*'\
+ -e VALIDATE_TYPESCRIPT_STANDARD=false\
+ -v $PWD:/tmp/lint\
+ github/super-linter

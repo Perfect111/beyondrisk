@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'BeyondRiskLogos';
+  src:
+    url('fonts/BeyondRiskLogos.ttf?rreaz') format('truetype'),
+    url('fonts/BeyondRiskLogos.woff?rreaz') format('woff'),
+    url('fonts/BeyondRiskLogos.svg?rreaz#BeyondRiskLogos') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="brl-"], [class*=" brl-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'BeyondRiskLogos' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.brl-beyondrisk .path1:before {
+  content: "\e902";
+  color: rgb(255, 255, 255);
+}
+.brl-beyondrisk .path2:before {
+  content: "\e903";
+  margin-left: -5.9169921875em;
+  color: rgb(8, 41, 42);
+  opacity: 0.4;
+}
+.brl-cloudflare .path1:before {
+  content: "\e900";
+  color: rgb(25, 24, 24);
+}
+.brl-cloudflare .path2:before {
+  content: "\e901";
+  margin-left: -3.064453125em;
+  color: rgb(255, 255, 255);
+}
+.brl-qualys .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.brl-qualys .path2:before {
+  content: "\e905";
+  margin-left: -3.2138671875em;
+  color: rgb(35, 35, 35);
+}
+.brl-amazon-web-services:before {
+  content: "\e921";
+  color: #fff;
+}
+.brl-google-cloud:before {
+  content: "\e933";
+  color: #fff;
+}
+.brl-cofense:before {
+  content: "\e934";
+  color: #fff;
+}
+.brl-fortinet:before {
+  content: "\e935";
+  color: #fff;
+}
+.brl-akamai:before {
+  content: "\e936";
+  color: #fff;
+}
+.brl-active-directory:before {
+  content: "\e937";
+  color: #fff;
+}
+.brl-microsoft:before {
+  content: "\e938";
+  color: #fff;
+}
+.brl-auth0:before {
+  content: "\e939";
+  color: #fff;
+}
+.brl-sophos:before {
+  content: "\e93a";
+  color: #fff;
+}
+.brl-paloalto:before {
+  content: "\e93b";
+  color: #fff;
+}
+.brl-vmware:before {
+  content: "\e93c";
+  color: #fff;
+}
+.brl-cortex:before {
+  content: "\e93d";
+  color: #fff;
+}
+.brl-rapid7:before {
+  content: "\e93e";
+  color: #fff;
+}
+.brl-knowbe4:before {
+  content: "\e93f";
+  color: #fff;
+}
+.brl-okta:before {
+  content: "\e940";
+  color: #fff;
+}
+.brl-windows-defender:before {
+  content: "\e941";
+  color: #fff;
+}
+.brl-rsa:before {
+  content: "\e942";
+  color: #fff;
+}
+.brl-tenable:before {
+  content: "\e943";
+  color: #fff;
+}
+.brl-barracuda:before {
+  content: "\e944";
+  color: #fff;
+}
+.brl-proofpoint:before {
+  content: "\e945";
+  color: #fff;
+}
